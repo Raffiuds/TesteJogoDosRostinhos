@@ -14,7 +14,7 @@ Formulação: a interação consiste em um jogo da memória com 8 cartas dispost
 * Randomizar a posição das cartas de modo que, a cada sessão de jogo, os pares apareçam em uma posição diferente. 
 * Utilize a estrutura do projeto fornecido como base para sua implementação. 
 
-Opcionais
+#### Opcionais
 * Tentar simular o uso de Orientação a objeto no javascript. (pesquise no google)
 * Deixar nos comentários do código os links usados para pesquisa e afins
 
